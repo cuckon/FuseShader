@@ -19,8 +19,6 @@ FuseShader has only been tested under Linux Platform. I hope these two shaders t
 
 #License
 
-Copyright (c) 2012-2015 Marc-Antoine Desjardins, ObliqueFX (marcantoinedesjardins@gmail.com)
-
 Permission is hereby granted, free of charge, to any person obtaining a copy 
 of this software and associated documentation files (the "Software"), to deal 
 in the Software without restriction, including without limitation the rights 
